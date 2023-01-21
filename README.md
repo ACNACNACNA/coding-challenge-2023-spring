@@ -19,7 +19,12 @@ Because G stars only had one data point, I was not able to make any reliable con
 In the future, if I was given more time and more data, I would test which star types would suit life the best as well as other star classifications. I would also use more parameters and use more metrics as well as ones more proven to be better metrics, since the metrics I used were more theoretical.
 
 ## Graphs
-
+![acmres1](https://user-images.githubusercontent.com/98008317/213825901-acfb1003-93c5-4b0e-9c05-5e79f762220a.png)
+![acmres2](https://user-images.githubusercontent.com/98008317/213825704-9b0f9e42-2259-4df6-af3e-671c3f37baca.png)
+![acmres3](https://user-images.githubusercontent.com/98008317/213825767-fcf5aeff-e957-4fd2-a163-771f0e700e39.png)
+![acmres4](https://user-images.githubusercontent.com/98008317/213825786-427ee1af-4f2c-4741-893d-9ba85b4492b6.png)
+![acmres5](https://user-images.githubusercontent.com/98008317/213825808-a4046680-8774-405b-9f35-0495448ebd99.png)
+![acmres6](https://user-images.githubusercontent.com/98008317/213825829-a59f54b1-eab2-4667-bc93-7d39225990e1.png)
 
 ## Sources I used:
 
